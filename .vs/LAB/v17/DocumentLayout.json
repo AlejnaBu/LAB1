@@ -1,70 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\LAB\\",
+  "WorkspaceRootPath": "C:\\Projects\\LAB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\entities\\pacienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\pacienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\entities\\doktori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\doktori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\controllers\\pacientetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\pacientetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\controllers\\doktoretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\controllers\\doktoretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\doktoretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\updatedoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\updatedoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\models\\adddoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\adddoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\migrations\\20250203210738_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250203210738_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab\\lab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\entities\\pacienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\pacienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\entities\\doktori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\doktori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\controllers\\pacientetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\pacientetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\adddoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\adddoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\updatedoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\updatedoktoridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216162502_fixadminrole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216162502_fixadminrole3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216140541_updatedatabaseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216140541_updatedatabaseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250203210738_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250203210738_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216124647_fixexecutionpolicyissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216124647_fixexecutionpolicyissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216144817_refreshtokenupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216144817_refreshtokenupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216150550_fixportissuesv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216150550_fixportissuesv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|c:\\projects\\lab1\\lab\\migrations\\20250216150222_fixportissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77184B7A-8B71-4C72-ADBC-2F1617EA252F}|Lab\\Lab.csproj|solutionrelative:lab\\migrations\\20250216150222_fixportissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,148 +122,208 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Program.cs",
-              "RelativeDocumentMoniker": "Lab\\Program.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Program.cs",
-              "RelativeToolTip": "Lab\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "DocumentIndex": 4,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\RegistrationRequest.cs",
+              "RelativeToolTip": "Lab\\Models\\RegistrationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:37:28.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Doktori.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Doktori.cs",
-              "RelativeDocumentMoniker": "Lab\\Models\\Entities\\Doktori.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Doktori.cs",
-              "RelativeToolTip": "Lab\\Models\\Entities\\Doktori.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:31:02.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pacienti.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Pacienti.cs",
-              "RelativeDocumentMoniker": "Lab\\Models\\Entities\\Pacienti.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Pacienti.cs",
-              "RelativeToolTip": "Lab\\Models\\Entities\\Pacienti.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:55:42.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T22:51:29.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Lab\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:50:47.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Controllers\\AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "Lab\\Controllers\\AppointmentsController.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "Lab\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAowGQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T17:38:21.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddAppointmentDto.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\AddAppointmentDto.cs",
-              "RelativeDocumentMoniker": "Lab\\Models\\AddAppointmentDto.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\AddAppointmentDto.cs",
-              "RelativeToolTip": "Lab\\Models\\AddAppointmentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "DocumentIndex": 1,
+              "Title": "DoktoretController.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Controllers\\DoktoretController.cs",
+              "RelativeDocumentMoniker": "Lab\\Controllers\\DoktoretController.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Controllers\\DoktoretController.cs",
+              "RelativeToolTip": "Lab\\Controllers\\DoktoretController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAG8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:06:18.88Z"
+              "WhenOpened": "2025-02-03T21:53:52.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Lab\\Program.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Program.cs",
+              "RelativeToolTip": "Lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:28.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Lab\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Lab\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:51:26.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab\\appsettings.json",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\appsettings.json",
+              "RelativeToolTip": "Lab\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T18:05:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\User.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\User.cs",
+              "RelativeToolTip": "Lab\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:38:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pacienti.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Pacienti.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\Entities\\Pacienti.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Pacienti.cs",
+              "RelativeToolTip": "Lab\\Models\\Entities\\Pacienti.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:55:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doktori.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Doktori.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\Entities\\Doktori.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Doktori.cs",
+              "RelativeToolTip": "Lab\\Models\\Entities\\Doktori.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:31:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Appointment.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "Lab\\Models\\Entities\\Appointment.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\Entities\\Appointment.cs",
               "RelativeToolTip": "Lab\\Models\\Entities\\Appointment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T14:53:23.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PacientetController.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Controllers\\PacientetController.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Controllers\\PacientetController.cs",
               "RelativeDocumentMoniker": "Lab\\Controllers\\PacientetController.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Controllers\\PacientetController.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Controllers\\PacientetController.cs",
               "RelativeToolTip": "Lab\\Controllers\\PacientetController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwEUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T17:16:00.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoktoretController.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Controllers\\DoktoretController.cs",
-              "RelativeDocumentMoniker": "Lab\\Controllers\\DoktoretController.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Controllers\\DoktoretController.cs",
-              "RelativeToolTip": "Lab\\Controllers\\DoktoretController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Lab\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Lab\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAiwJkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:53:52.703Z"
+              "WhenOpened": "2025-02-15T22:48:39.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:02:24.139Z"
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T22:13:29.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\TokenRequest.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\TokenRequest.cs",
+              "RelativeToolTip": "Lab\\Models\\TokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:52:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AddDoktoriDto.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\AddDoktoriDto.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\AddDoktoriDto.cs",
               "RelativeDocumentMoniker": "Lab\\Models\\AddDoktoriDto.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\AddDoktoriDto.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\AddDoktoriDto.cs",
               "RelativeToolTip": "Lab\\Models\\AddDoktoriDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T14:41:22.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "UpdateDoktoriDto.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Models\\UpdateDoktoriDto.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\UpdateDoktoriDto.cs",
               "RelativeDocumentMoniker": "Lab\\Models\\UpdateDoktoriDto.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Models\\UpdateDoktoriDto.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\UpdateDoktoriDto.cs",
               "RelativeToolTip": "Lab\\Models\\UpdateDoktoriDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +331,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
+              "Title": "AddAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Models\\AddAppointmentDto.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\AddAppointmentDto.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Models\\AddAppointmentDto.cs",
+              "RelativeToolTip": "Lab\\Models\\AddAppointmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:06:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250216162502_FixAdminRole3.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216162502_FixAdminRole3.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216162502_FixAdminRole3.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216162502_FixAdminRole3.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216162502_FixAdminRole3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:25:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250216150222_FixPortIssues.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216150222_FixPortIssues.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216150222_FixPortIssues.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216150222_FixPortIssues.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216150222_FixPortIssues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:02:23.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250216150550_FixPortIssuesV2.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216150550_FixPortIssuesV2.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216150550_FixPortIssuesV2.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216150550_FixPortIssuesV2.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216150550_FixPortIssuesV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:05:50.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250216144817_RefreshTokenUpdate.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216144817_RefreshTokenUpdate.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216144817_RefreshTokenUpdate.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216144817_RefreshTokenUpdate.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216144817_RefreshTokenUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:48:17.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250216124647_FixExecutionPolicyIssue.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216124647_FixExecutionPolicyIssue.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216124647_FixExecutionPolicyIssue.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216124647_FixExecutionPolicyIssue.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216124647_FixExecutionPolicyIssue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:46:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250216140541_UpdateDatabaseSchema.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216140541_UpdateDatabaseSchema.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\20250216140541_UpdateDatabaseSchema.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250216140541_UpdateDatabaseSchema.cs",
+              "RelativeToolTip": "Lab\\Migrations\\20250216140541_UpdateDatabaseSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:05:42.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Lab\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Lab\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:48:01.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:02:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "20250203210738_initial migration.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Migrations\\20250203210738_initial migration.cs",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250203210738_initial migration.cs",
               "RelativeDocumentMoniker": "Lab\\Migrations\\20250203210738_initial migration.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Migrations\\20250203210738_initial migration.cs",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Migrations\\20250203210738_initial migration.cs",
               "RelativeToolTip": "Lab\\Migrations\\20250203210738_initial migration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,39 +451,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab\\appsettings.json",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\appsettings.json",
-              "RelativeToolTip": "Lab\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T18:05:19.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Lab.csproj",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Lab.csproj",
+              "DocumentMoniker": "C:\\Projects\\LAB1\\Lab\\Lab.csproj",
               "RelativeDocumentMoniker": "Lab\\Lab.csproj",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Lab.csproj",
+              "ToolTip": "C:\\Projects\\LAB1\\Lab\\Lab.csproj",
               "RelativeToolTip": "Lab\\Lab.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-03T17:02:47.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Projects\\LAB\\Lab\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Lab\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Projects\\LAB\\Lab\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Lab\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:48:01.914Z"
             }
           ]
         }
