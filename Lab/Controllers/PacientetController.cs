@@ -33,7 +33,7 @@ namespace Lab.Controllers
 
         // ✅ Merr profilin e pacientit të autentikuar
         [HttpGet("profile")]
-        [Authorize(Roles = "patient")]
+        [Authorize(Roles = "admin")]
         public IActionResult GetMyProfile()
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier); // Merr ID e përdoruesit nga JWT
@@ -47,13 +47,13 @@ namespace Lab.Controllers
         // ✅ Shton një pacient të ri (Vetëm admini)
         [HttpPost]
         [Authorize(Roles = "admin")]
-        public async Task<IActionResult> AddPacienti([FromBody] Pacienti pacienti)
+        public async Task<IActionResult> AddPacienti([FromBody] AddPacientiDto dto)
         {
             // 1️⃣ Krijo një përdorues për pacientin në AspNetUsers
             var user = new User
             {
-                UserName = pacienti.Email,
-                Email = pacienti.Email,
+                UserName = dto.Email,
+                Email = dto.Email,
                 UserRole = "patient"
             };
 
@@ -61,7 +61,13 @@ namespace Lab.Controllers
             if (!result.Succeeded) return BadRequest(result.Errors);
 
             // 2️⃣ Lidh pacientin me UserId e përdoruesit të ri
-            pacienti.UserId = user.Id; // 📌 Lidhja me përdoruesin në AspNetUsers
+            var pacienti = new Pacienti
+            {
+                Name = dto.Name,
+                Email = dto.Email,
+                Phone = dto.Phone,
+                UserId = user.Id
+            };
 
             dbContext.Pacientet.Add(pacienti);
             await dbContext.SaveChangesAsync();
